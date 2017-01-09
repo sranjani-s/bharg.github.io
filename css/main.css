@@ -1,26 +1,37 @@
 body {
     width: 50%;
-    font-family: 'PT Sans', sans-serif;
-    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
 }
 
 .name {
     text-align: center;
     font-family: 'PT Sans Narrow', sans-serif;
-    margin-top: 25px;
-    margin-bottom: auto;
-    background-color: grey;
-    color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: grey;
 }
 
 .content {
-    margin: 100px 100px auto 100px;
+    margin: 30px 100px auto 100px;
+    height: 350px;
+    text-align: justify;
+}
+
+.btn {
+  color: #49C9BF;
+  font-family: 'PT Sans',sans-serif;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 footer {
     text-align: center;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    font-size: 12px;
 }
-
-
