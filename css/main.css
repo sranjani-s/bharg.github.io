@@ -1,5 +1,4 @@
 body {
-    margin: auto 100px auto 100px;
     width: 50%;
     font-family: 'PT Sans', sans-serif;
 }
@@ -7,6 +6,10 @@ body {
 .name {
     text-align: center;
     font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.content {
+    margin: auto 100px auto 100px;
 }
 
 footer {
