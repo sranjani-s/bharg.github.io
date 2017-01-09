@@ -9,4 +9,10 @@ body {
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
+footer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
