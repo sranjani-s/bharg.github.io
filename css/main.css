@@ -7,6 +7,10 @@ body {
 .name {
     text-align: center;
     font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 25px;
+    margin-bottom: auto;
+    background-color: grey;
+    color: white;
 }
 
 .content {
@@ -17,11 +21,6 @@ footer {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-}
-
-title {
-    margin-top: 25px;
-    margin-bottom: auto;
 }
 
 
