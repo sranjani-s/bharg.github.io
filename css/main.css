@@ -1,5 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Droid Sans',sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
+
+.name {
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
