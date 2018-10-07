@@ -87,13 +87,14 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #3eaba3;
+  font-family: 'PT Sans Narrow', sans-serif
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #3eaba3;
     text-decoration: none;
   }
 
@@ -102,7 +103,7 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: black;
     text-decoration: none;
     margin-left: 1em;
   }
@@ -112,7 +113,7 @@ ul.posts {
   }
 
   .site .meta {
-    color: #aaa;
+    color: #49C9BF;
   }
 
   .site .footer {
