@@ -2,7 +2,6 @@
 layout: post
 category: kcl
 title: 'What if you were a piece of art?'
-date: {{ page.date | date_to_long_string }}
 ---
 
 {{page.title}}
