@@ -75,7 +75,7 @@ I did not think the performances could get any more intense but they did with th
 acclaimed choreographer Christopher Bruce was a "tribute to the victims of political oppression in South America", says Rambert's 
 website. It takes visual inspiration from the characteristics of [Dia del los muertos](https://en.wikipedia.org/wiki/Day_of_the_Dead) 
 and is laden with earworm Latin American music. It is "one of the most celebrated contemporary dance pieces of its generation" 
-says the website and I am not surprised. The show ended with "Killer Pig" choreographed by Sharon Eyal (Finally a female
+says the website and I am not surprised. The show ended with 'Killer Pig' choreographed by Sharon Eyal (Finally a female
 choreographer!) The piece is long and the perfect word to describe it is 'brazen' as appropriately reviewed by [The Guardian](https://www.theguardian.com/stage/2018/nov/07/rambert-two-review-sadlers-wells-london-sharon-eyal-killer-pig-benoit-swan-pouffer).
 Everything about the performance, including the costume, the lighting and the music, had such an unwavering intensity to it that I did 
 not realise it ran for 20 minutes more than the expected time of completion!
