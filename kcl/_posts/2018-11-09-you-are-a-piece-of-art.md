@@ -37,9 +37,8 @@ entire building was temperature controlled in a way suitable for the dancers to 
 would not have any extreme reaction: they were rather ordinary looking, at least for a nationally renowned dance company. But 
 this observation was only waiting to be broken by the end of the day. 
 
-![Costumes room - organised](/images/posts/kcl/2018-11-09/3.jpg){:width="400px"}
-![Costumes room - organised](/images/posts/kcl/2018-11-09/4.jpg){:width="400px"}
-![Costumes room - organised](/images/posts/kcl/2018-11-09/5.jpg){:width="400px"}
+:-------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:
+![Costumes room - organised](/images/posts/kcl/2018-11-09/3.jpg){:width="400px"} |![Labels](/images/posts/kcl/2018-11-09/4.jpg){:width="400px"} |![More labels](/images/posts/kcl/2018-11-09/5.jpg){:width="400px"}
 
 We then met Ms.Delene Gordon, our instructor at Rambert. Yes, we were going to have an hour and a half of Contemporary dance 
 training session (One of the many reasons why I love this programme)! Ms.Gordon was obviously a brilliant dancer but she was also
