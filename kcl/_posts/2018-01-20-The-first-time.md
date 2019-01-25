@@ -13,7 +13,7 @@ date: 2019-01-20 14:42
 There is something nostalgic about our first experiences. All the more so when that first experience leads to a certain addiction. (Five seconds into this trailer of ‘Beautiful Boy’ and you will know what I mean) 
 
 <a href="https://www.youtube.com/watch?v=8NR8w8s9zWA" target="_blank"><img src="https://img.youtube.com/vi/8NR8w8s9zWA/0.jpg" 
-alt="Beautiful Boy trailer" width="960" height="540" /></a>
+alt="Beautiful Boy trailer" width="540" height="360" /></a>
 
 The first of my cultural visits in London was to the much-publicized [Science Gallery](https://london.sciencegallery.com/) opened last year in the Guy’s campus of King’s College London. Even though this visit happened in late September, before the Cultural award programme for the year had begun, having been a part of the programme has now made me reflect upon my experience and takeaways. 
 
