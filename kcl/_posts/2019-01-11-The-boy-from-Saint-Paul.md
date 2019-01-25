@@ -1,7 +1,7 @@
 ---
 layout: post
 category: kcl
-title: 'The boy from Saint Paul'
+title: 'The Boy from Saint Paul'
 date: 2019-01-11 19:43
 ---
 
