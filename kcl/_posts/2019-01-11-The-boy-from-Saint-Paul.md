@@ -18,7 +18,7 @@ Have you ever been to a place that made you smile, for more than 2 hours straigh
 
 [Peanuts](https://en.wikipedia.org/wiki/Peanuts), the comic strip, was started in 1950 by the American artist [Charles M. Schulz](https://en.wikipedia.org/wiki/Charles_M._Schulz) and ran for over 5 decades, with re-runs continuing till date.  Its main characters include Charlie Brown, siblings Lucy and Linus van Pelt, a canary called Woodstock and the famous beagle Snoopy, inspired by Schulz’s own childhood dog Sparky. Other recurring characters include Franklin, the first African American in the strip who was introduced shortly after Martin Luther King Jr.’s assassination in 1968, the Little Red-Haired girl, based on Schulz’s love interest Donna Mae Johnson who turned his proposal down, Peppermint Patty and Sally Brown. 
 
-![Franklin](/images/posts/kcl/2019-01-11/franklin.jpg){:width="1200px"}
+![Franklin](/images/posts/kcl/2019-01-11/franklin-comic.jpg){:width="1200px"}
 
 ‘Good grief, Charlie Brown’ delves into the ideology behind each of these characters as much as it does into the artist’s life. As someone who grew up in a rural household in Minnesota, Schulz was brought up with commands to never draw attention to himself. This probably grew into one of his core traits, prompting him to not have his face but the characters of the comic strip on the Time magazine cover. 
 
