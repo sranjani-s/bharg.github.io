@@ -2,7 +2,7 @@
 layout: post
 category: kcl
 title: 'Curtains down: The Story of Acceptance'
-date: 2018-12-09 21:12
+date: 2019-01-24 21:12
 ---
 
 {{page.title}}
