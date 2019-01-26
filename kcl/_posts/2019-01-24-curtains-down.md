@@ -1,0 +1,31 @@
+---
+layout: post
+category: kcl
+title: 'Curtains down: The Story of Acceptance'
+date: 2018-12-09 21:12
+---
+
+{{page.title}}
+================
+
+<p class="meta">24 Jan 2019 - London</p>
+
+As a citizen of a former colony of Britain with a certain sense of unshakable patriotism, there was a never-ending internal conflict in my Indian mind. London, with all its grandeur, was both enticing and stinging. Every time I saw something that provoked in me awe and wonder, be it the wonderful expanse of modern marvels like the British Library and St.Pancreas International station in perfect harmony with nature and its tiny canals culminating into the magnificent King's Cross neighbourhood, the small town charm of garage sales, farmers' market and pavement seating amidst the bustle of the 'big city' in Fulham Broadway or simply the beauty of River Thames right outside the university that reveals a different trait in different light everyday: everything came with a bittersweet reminder "At what cost?"
+
+As a strong advocate of the need for arts and sciences to intersect for innovation, I enrolled for the Cultural award programme as a Master's student of Advanced Software Engineering. But more importantly, I realised that I needed some perspective into what London is as a city in the 21st century, if I wanted to set free the psychological ghosts of the colonial past. As much as I thoroughly enjoyed the contemporary dance session at Rambert and the session on Activism by Ms.Jenny leonard, it is the museums that play protagonists in this story of acceptance.
+
+Museums in London are a part of its core identity. Everyone who visits London has them as a part of their must-see list. And as a part of the Cultural award, I visited some of the key places including the National Gallery and the British Museum. Activities such as replicating famous paintings using the grid method, observing the surrounding through the microscope slides made with cellophane tape, and embroidering our memory intact helped me see museums for what they really were and not for what they seemed to be. But my major mental break-through happened when I least expected it. 
+
+During a serendipitous dinner with a Belgian mutual friend, she put forth a noble hypothesis that goes: "In the rest of Europe, you have to pay to enter the museums, but you can enter the churches free of charge. But in the UK, you have to pay to enter the churches (case in point, St.Paul's Cathedral) but you can enter the museums for free. This is because the UK government always advocated that religion is something that people choose but education should be available for all." A quick internet search did show some cases where, time and again, the government lobbied for funds to keep the museums free. So, I am not sure if the "hypothesis" is entirely true but as a principle, it was intensely inspiring. Thus, began my second leg of the tour of museums and galleries.
+
+With the Student Art Fund card providing wonderful discounts, I visited the ‘I Am Ashurbanipal: king of the world, king of Assyria’ exhibition at the British Museum and the House of Illustrations at King’s Cross. ‘I Am Ashurbanipal’ (IAA) is easily the best historical exhibition I have ever been to, an experience only accentuated by my accompanying archaeologist friends. IAA had in store extraordinary clay tablets written in cuneiform, that ironically was preserved for eternity by a fire that destroyed almost everything else. There were sculptures and artefacts excavated from Nineveh, paintings of the eponymous king who took immense pride in being a learned and literate man, and that of his kingdom during its time of glory and ruin. But my moment of child-like wonder was when I saw how well technology was used to aid recreate history. Projectors were placed in front of clay tablets that coloured the human figures aptly in intervals to demonstrate how they used to be and how they are now. Another exhibit was a huge spread of clay tablets illustrating a battle and a projector highlighted certain parts of the spread at a time, to narrate the story of the battle. The exhibition also has a trailer and commentary from the curators including Dr. Gareth Brereton available on streaming services. As a software engineer, such use of technology to complement the content made me rejoice and showed me what was possible.
+
+IAA is being sponsored by BP, the oil and gas company – a fact that has attracted scepticism on the intentions and collateral damages of the exhibition.  Upcoming events such as ‘No War, No Warming! Takeover at the British Museum’ by a group that call themselves ‘BP or not BP?’ and ‘Museums were never neutral’ – a talk at KCL by Alice Procter who runs Uncomfortable Art Tours, are all exploring the often-unethical other side of such exhibitions. 
+
+As much as the IAA exhibition explored the past, House of Illustration explored the present. House of Illustration, founded by the celebrated illustrator Sir Quentin Blake, hosted two exhibitions the time I visited. One harboured some of Sir Blake’s early works as a life-figure artist, a life outside of his reputed career. The other titled “Journeys Drawn: Illustration from the Refugee Crisis” explored various facets of the ongoing immigration issues as portrayed by 12 artists, 2 of whom are refugees themselves. Sketches, illustrations and animated videos dug deeper into the existential crises faced by refugees every day. 
+
+This was the final piece of the jigsaw puzzle that cultural London is. Every aspect questioned, every movement analysed, every piece examined – London fosters perspectives of all kinds and celebrates the diversity as a part of its persona. Refugees who finally find their voice in a free country and cherish the future, archaeologists who find and preserve treasures of the past, activists who fight to make the wrongs of the past right – this is what London is in the 21st century. As much as it is a city built with the blood of the past, it is a city that is open for the present and nourishes the future. 
+
+And I finally see London for what it is, not haunted by what it was.
+
+[This essay is not satisfactorily complete due to word and time limitations. Will update it soon.]
