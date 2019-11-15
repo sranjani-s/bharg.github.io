@@ -7,11 +7,9 @@ title: Sivaranjani Subramanian
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-    {% if post.categories contains 'main' %}
+    {% if post.categories contains 'blog' %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
 </div>
-
-<h6> None at the moment. Do check the 'Culture' tab <h6>
